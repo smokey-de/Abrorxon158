@@ -41,7 +41,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/material-ui-logo-black-and-white.png" width="30px"></code>
-<code><img src="http://assets.stickpng.com/images/5847f98fcef1014c0b5e48c0.png" width="30px"></code>
+<code><img src="https://library.kissclipart.com/20190405/hve/kissclipart-computer-icons-github-clip-art-logo-dc9f8834e57de4e9.png" width="30px"></code>
 
 <br />
 
