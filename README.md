@@ -10,4 +10,7 @@
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-Hi, I'm Abror Karimxonov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width='30px'/>
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
