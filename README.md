@@ -43,6 +43,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <br />
 
-- 📍 &nbsp; Current location: Fergana, Uzbekistan
+- 📍 &nbsp; Current location: Tashkent, Uzbekistan
 - 📝&nbsp; Ask me about anything, I am happy to help
 - 📨&nbsp; How to reach me: [@abrorxon](https://www.instagram.com/abrorciiiik/)
